@@ -21,5 +21,4 @@
 - какие факторы мешают привлечению клиентов.
 
 ## Используемые библиотеки
-*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *folium*, *plotly*, *requests*  
-
+*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *folium*, *plotly*, *requests* 
