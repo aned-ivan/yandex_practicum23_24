@@ -24,5 +24,5 @@
 - проверка статистическими методами гипомез о равенстве средних пользовательские рейтинги платформ Xbox One и PC, а также отличии пользовательских рейтингов жанров Action и Sports.  
 
 ## Используемые библиотеки
-*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *folium*, *plotly*, *requests*  
+*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *plotly*, *requests*  
 
