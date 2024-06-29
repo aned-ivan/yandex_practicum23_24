@@ -34,5 +34,5 @@
 - формулирование рекоментаций для рекламной рассылки каждому сегменту. 
 
 ## Используемые библиотеки
-*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *folium*, *plotly*, *requests*  
+*pandas*, *numpy*, *math*, *matplotlib*, *scipy*, *seaborn*, *plotly*, *requests*  
 
